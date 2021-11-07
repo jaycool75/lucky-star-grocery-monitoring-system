@@ -90,8 +90,6 @@
                             <ul class="socials">
                                 <li><a href="#" title="twitter" class="socail-btn"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                                 <li><a href="#" title="facebook" class="socail-btn"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                <li><a href="#" title="pinterest" class="socail-btn"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                                <li><a href="#" title="youtube" class="socail-btn"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
                                 <li><a href="#" title="instagram" class="socail-btn"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                             </ul>
                         </div>
@@ -109,10 +107,8 @@
                     <div class="payment-methods">
                         <ul>
                             <li><a href="#" class="payment-link"><img src="{{asset('client/assets/images/card1.jpg')}}" width="51" height="36" alt=""></a></li>
-                            <li><a href="#" class="payment-link"><img src="{{asset('client/assets/images/card2.jpg')}}" width="51" height="36" alt=""></a></li>
-                            <li><a href="#" class="payment-link"><img src="{{asset('client/assets/images/card3.jpg')}}" width="51" height="36" alt=""></a></li>
-                            <li><a href="#" class="payment-link"><img src="{{asset('client/assets/images/card4.jpg')}}" width="51" height="36" alt=""></a></li>
-                            <li><a href="#" class="payment-link"><img src="{{asset('client/assets/images/card5.jpg')}}" width="51" height="36" alt=""></a></li>
+                            <li><a href="#" class="payment-link"><img src="{{asset('client/assets/images/card2.png')}}" width="51" height="36" alt=""></a></li>
+                            <li><a href="#" class="payment-link"><img src="{{asset('client/assets/images/card3.png')}}" width="51" height="36" alt=""></a></li>
                         </ul>
                     </div>
                 </div>

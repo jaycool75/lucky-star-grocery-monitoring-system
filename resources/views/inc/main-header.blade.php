@@ -16,14 +16,13 @@
             <div class="top-bar left">
                 <ul class="horizontal-menu">
                     <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i>support@luckystar.com</a></li>
-                    <li><a href="#">Free Shipping for all Order of Php 1,000.00</a></li>
+                    <li><a href="#">Free Shipping for all Orders above Php 1,000.00</a></li>
                 </ul>
             </div>
             <div class="top-bar right">
                 <ul class="social-list">
                     <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                     <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                    <li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
                 </ul>
                 <ul class="horizontal-menu">
                     <li><a href="login.html" class="login-link"><i class="biolife-icon icon-login"></i>Login/Register</a></li>
@@ -35,7 +34,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-2 col-md-6 col-xs-6">
-                    <a href="home-04-light.html" class="biolife-logo"><img src="{{asset('client/assets/images/luckystar-logo.png')}}" alt="Lucky Star Logo" width="135" height="36"></a>
+                    <a href="home-04-light.html" class="biolife-logo"><img src="{{asset('client/assets/images/lucky-star-logo.png')}}" alt="Lucky Star Logo" width="135" height="36"></a>
                 </div>
                 <div class="col-lg-6 col-md-7 hidden-sm hidden-xs">
                     <div class="primary-menu">
@@ -47,85 +46,50 @@
                                     <div class="mega-content">
                                         <div class="col-lg-3 col-md-3 col-xs-12 md-margin-bottom-0 xs-margin-bottom-25">
                                             <div class="wrap-custom-menu vertical-menu">
-                                                <h4 class="menu-title">Fresh Berries</h4>
+                                                <h4 class="menu-title">Beverages</h4>
                                                 <ul class="menu">
-                                                    <li><a href="#">Fruit & Nut Gifts</a></li>
-                                                    <li><a href="#">Mixed Fruits</a></li>
-                                                    <li><a href="#">Oranges</a></li>
-                                                    <li><a href="#">Bananas & Plantains</a></li>
-                                                    <li><a href="#">Fresh Gala Apples</a></li>
+                                                    <li><a href="#">Coffee</a></li>
+                                                    <li><a href="#">Tea</a></li>
+                                                    <li><a href="#">Juice</a></li>
+                                                    <li><a href="#">Soda</a></li>
+                                                    <li><a href="#">Alcohol</a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                         <div class="col-lg-3 col-md-3 col-xs-12 md-margin-bottom-0 xs-margin-bottom-25">
                                             <div class="wrap-custom-menu vertical-menu">
-                                                <h4 class="menu-title">Vegetables</h4>
+                                                <h4 class="menu-title">Dairy</h4>
                                                 <ul class="menu">
-                                                    <li><a href="#">Berries</a></li>
-                                                    <li><a href="#">Pears</a></li>
-                                                    <li><a href="#">Chili Peppers</a></li>
-                                                    <li><a href="#">Fresh Avocado</a></li>
-                                                    <li><a href="#">Grapes</a></li>
+                                                    <li><a href="#">Cheese</a></li>
+                                                    <li><a href="#">Eggs</a></li>
+                                                    <li><a href="#">Milk</a></li>
+                                                    <li><a href="#">Yogurt</a></li>
+                                                    <li><a href="#">Butter</a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                         <div class="col-lg-3 col-md-3 col-xs-12 md-margin-bottom-0 xs-margin-bottom-25">
                                             <div class="wrap-custom-menu vertical-menu ">
-                                                <h4 class="menu-title">Fresh Fruits</h4>
+                                                <h4 class="menu-title">Cleaners</h4>
                                                 <ul class="menu">
-                                                    <li><a href="#">Basket of apples</a></li>
-                                                    <li><a href="#">Strawberry</a></li>
-                                                    <li><a href="#">Blueberry</a></li>
-                                                    <li><a href="#">Orange</a></li>
-                                                    <li><a href="#">Pineapple</a></li>
+                                                    <li><a href="#">Laundry Detergent</a></li>
+                                                    <li><a href="#">Dishwashing Liquid</a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                         <div class="col-lg-3 col-md-3 col-xs-12 md-margin-bottom-0 xs-margin-bottom-25">
                                             <div class="wrap-custom-menu vertical-menu">
-                                                <h4 class="menu-title">Featured Products</h4>
+                                                <h4 class="menu-title">Personal Care</h4>
                                                 <ul class="menu">
-                                                    <li><a href="#">Coffee Creamers</a></li>
-                                                    <li><a href="#">Mayonnaise</a></li>
-                                                    <li><a href="#">Almond Milk</a></li>
-                                                    <li><a href="#">Fruit Jam</a></li>
-                                                    <li><a href="#">Beverages</a></li>
+                                                    <li><a href="#">Shampoo</a></li>
+                                                    <li><a href="#">Body Soap</a></li>
+                                                    <li><a href="#">Hand Soap</a></li>
+                                                    <li><a href="#">Shaving Cream</a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </li>
-                            <li class="menu-item menu-item-has-children has-child">
-                                <a href="#" class="menu-name" data-title="Product">Product</a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item"><a href="#">Omelettes</a></li>
-                                    <li class="menu-item"><a href="#">Breakfast Scrambles</a></li>
-                                    <li class="menu-item menu-item-has-children has-child"><a href="#" class="menu-name" data-title="Eggs & other considerations">Eggs & other considerations</a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item"><a href="#">Classic Breakfast</a></li>
-                                            <li class="menu-item"><a href="#">Huevos Rancheros</a></li>
-                                            <li class="menu-item"><a href="#">Everything Egg Sandwich</a></li>
-                                            <li class="menu-item"><a href="#">Egg Sandwich</a></li>
-                                            <li class="menu-item"><a href="#">Vegan Burrito</a></li>
-                                            <li class="menu-item"><a href="#">Biscuits and Gravy</a></li>
-                                            <li class="menu-item"><a href="#">Bacon Avo Egg Sandwich</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item"><a href="#">Griddle</a></li>
-                                    <li class="menu-item menu-item-has-children has-child"><a href="#" class="menu-name" data-title="Sides & Extras">Sides & Extras</a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item"><a href="#">Breakfast Burrito</a></li>
-                                            <li class="menu-item"><a href="#">Crab Cake Benedict</a></li>
-                                            <li class="menu-item"><a href="#">Corned Beef Hash</a></li>
-                                            <li class="menu-item"><a href="#">Steak & Eggs</a></li>
-                                            <li class="menu-item"><a href="#">Oatmeal</a></li>
-                                            <li class="menu-item"><a href="#">Fruit & Yogurt Parfait</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item"><a href="#">Biscuits</a></li>
-                                    <li class="menu-item"><a href="#">Seasonal Fruit Plate</a></li>
-                                </ul>
                             </li>
                             <li class="menu-item"><a href="contact.html">Contact</a></li>
                         </ul>
@@ -184,8 +148,8 @@
                                                     <div class="left-info">
                                                         <div class="product-title"><a href="#" class="product-name">National Fresh Fruit</a></div>
                                                         <div class="price">
-                                                            <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                            <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
+                                                            <ins><span class="price-amount"><span class="currencySymbol">Php </span>85.00</span></ins>
+                                                            <del><span class="price-amount"><span class="currencySymbol">Php </span>95.00</span></del>
                                                         </div>
                                                         <div class="qty">
                                                             <label for="cart[id123][qty]">Qty:</label>
@@ -206,8 +170,8 @@
                                                     <div class="left-info">
                                                         <div class="product-title"><a href="#" class="product-name">National Fresh Fruit</a></div>
                                                         <div class="price">
-                                                            <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                            <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
+                                                            <ins><span class="price-amount"><span class="currencySymbol">Php </span>85.00</span></ins>
+                                                            <del><span class="price-amount"><span class="currencySymbol">Php </span>95.00</span></del>
                                                         </div>
                                                         <div class="qty">
                                                             <label for="cart[id124][qty]">Qty:</label>
@@ -228,8 +192,8 @@
                                                     <div class="left-info">
                                                         <div class="product-title"><a href="#" class="product-name">National Fresh Fruit</a></div>
                                                         <div class="price">
-                                                            <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                            <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
+                                                            <ins><span class="price-amount"><span class="currencySymbol">Php </span>85.00</span></ins>
+                                                            <del><span class="price-amount"><span class="currencySymbol">Php </span>95.00</span></del>
                                                         </div>
                                                         <div class="qty">
                                                             <label for="cart[id125][qty]">Qty:</label>
@@ -250,8 +214,8 @@
                                                     <div class="left-info">
                                                         <div class="product-title"><a href="#" class="product-name">National Fresh Fruit</a></div>
                                                         <div class="price">
-                                                            <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                            <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
+                                                            <ins><span class="price-amount"><span class="currencySymbol">Php </span>85.00</span></ins>
+                                                            <del><span class="price-amount"><span class="currencySymbol">Php </span>95.00</span></del>
                                                         </div>
                                                         <div class="qty">
                                                             <label for="cart[id126][qty]">Qty:</label>
@@ -272,8 +236,8 @@
                                                     <div class="left-info">
                                                         <div class="product-title"><a href="#" class="product-name">National Fresh Fruit</a></div>
                                                         <div class="price">
-                                                            <ins><span class="price-amount"><span class="currencySymbol">£</span>85.00</span></ins>
-                                                            <del><span class="price-amount"><span class="currencySymbol">£</span>95.00</span></del>
+                                                            <ins><span class="price-amount"><span class="currencySymbol">Php </span>85.00</span></ins>
+                                                            <del><span class="price-amount"><span class="currencySymbol">Php </span>95.00</span></del>
                                                         </div>
                                                         <div class="qty">
                                                             <label for="cart[id127][qty]">Qty:</label>
