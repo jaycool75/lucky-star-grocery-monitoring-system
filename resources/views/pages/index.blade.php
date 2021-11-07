@@ -25,7 +25,7 @@
                                 <div class="wrap-menu">
                                     <ul class="menu clone-main-menu">
                                         <li class="menu-item menu-item-has-children has-megamenu">
-                                            <a href="#" class="menu-name" data-title="Fruit & Nut Gifts"><i class="biolife-icon icon-fruits"></i>Fruit & Nut Gifts</a>
+                                            <a href="#" class="menu-name" data-title="Fruit & Nut Gifts"><i class="biolife-icon icon-fruits"></i>Beverages</a>
                                             <div class="wrap-megamenu lg-width-900 md-width-640">
                                                 <div class="mega-content">
                                                     <div class="row">
@@ -136,7 +136,7 @@
                                             </div>
                                         </li>
                                         <li class="menu-item menu-item-has-children has-megamenu">
-                                            <a href="#" class="menu-name" data-title="Vegetables"><i class="biolife-icon icon-broccoli-1"></i>Vegetables</a>
+                                            <a href="#" class="menu-name" data-title="Vegetables"><i class="biolife-icon icon-broccoli-1"></i>Sweets & Snacks</a>
                                             <div class="wrap-megamenu lg-width-900 md-width-640 background-mega-01">
                                                 <div class="mega-content">
                                                     <div class="row">
@@ -188,7 +188,7 @@
                                             </div>
                                         </li>
                                         <li class="menu-item menu-item-has-children has-megamenu">
-                                            <a href="#" class="menu-name" data-title="Fresh Berries"><i class="biolife-icon icon-grape"></i>Fresh Berries</a>
+                                            <a href="#" class="menu-name" data-title="Fresh Berries"><i class="biolife-icon icon-grape"></i>Milk Products</a>
                                             <div class="wrap-megamenu lg-width-900 md-width-640 background-mega-02">
                                                 <div class="mega-content">
                                                     <div class="row">
@@ -235,9 +235,9 @@
                                                 </div>
                                             </div>
                                         </li>
-                                        <li class="menu-item"><a href="#" class="menu-name" data-title="Ocean Foods"><i class="biolife-icon icon-fish"></i>Ocean Foods</a></li>
+                                        <li class="menu-item"><a href="#" class="menu-name" data-title="Ocean Foods"><i class="biolife-icon icon-fish"></i>Condiments & Sauces</a></li>
                                         <li class="menu-item menu-item-has-children has-child">
-                                            <a href="#" class="menu-name" data-title="Butter & Eggs"><i class="biolife-icon icon-honey"></i>Butter & Eggs</a>
+                                            <a href="#" class="menu-name" data-title="Butter & Eggs"><i class="biolife-icon icon-honey"></i>Dairy Products</a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item"><a href="#">Omelettes</a></li>
                                                 <li class="menu-item"><a href="#">Breakfast Scrambles</a></li>
@@ -267,12 +267,12 @@
                                                 <li class="menu-item"><a href="#">Seasonal Fruit Plate</a></li>
                                             </ul>
                                         </li>
-                                        <li class="menu-item"><a href="#" class="menu-title"><i class="biolife-icon icon-fast-food"></i>Fastfood</a></li>
-                                        <li class="menu-item"><a href="#" class="menu-title"><i class="biolife-icon icon-beef"></i>Fresh Meat</a></li>
-                                        <li class="menu-item"><a href="#" class="menu-title"><i class="biolife-icon icon-onions"></i>Fresh Onion</a></li>
-                                        <li class="menu-item"><a href="#" class="menu-title"><i class="biolife-icon icon-avocado"></i>Papaya & Crisps</a></li>
-                                        <li class="menu-item"><a href="#" class="menu-title"><i class="biolife-icon icon-contain"></i>Oatmeal</a></li>
-                                        <li class="menu-item"><a href="#" class="menu-title"><i class="biolife-icon icon-fresh-juice"></i>Fresh Bananas & Plantains</a></li>
+                                        <li class="menu-item"><a href="#" class="menu-title"><i class="biolife-icon icon-fast-food"></i>Canned Goods</a></li>
+                                        <li class="menu-item"><a href="#" class="menu-title"><i class="biolife-icon icon-beef"></i>Frozen Foods</a></li>
+                                        <li class="menu-item"><a href="#" class="menu-title"><i class="biolife-icon icon-onions"></i>Fruits & Vegetables</a></li>
+                                        <li class="menu-item"><a href="#" class="menu-title"><i class="biolife-icon icon-avocado"></i>Cleaning Products</a></li>
+                                        <li class="menu-item"><a href="#" class="menu-title"><i class="biolife-icon icon-contain"></i>Personal Care</a></li>
+                                        <li class="menu-item"><a href="#" class="menu-title"><i class="biolife-icon icon-fresh-juice"></i>Others</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -382,9 +382,9 @@
             <div class="wrap-category xs-margin-top-80px">
                 <div class="container">
                     <div class="biolife-title-box style-02 xs-margin-bottom-33px">
-                        <span class="subtitle">Hot Categories 2019</span>
+                        <span class="subtitle">Hot Categories 2021</span>
                         <h3 class="main-title">Featured Categories</h3>
-                        <p class="desc">Natural food is taken from the world's most modern farms with strict safety cycles</p>
+                        <p class="desc">Best Selling Essential Goods of the Year</p>
                     </div>
                     <ul class="biolife-carousel nav-center-bold nav-none-on-mobile" data-slick='{"arrows":true,"dots":false,"infinite":false,"speed":400,"slidesMargin":30,"slidesToShow":4, "responsive":[{"breakpoint":1200, "settings":{ "slidesToShow": 3}},{"breakpoint":992, "settings":{ "slidesToShow": 3}},{"breakpoint":768, "settings":{ "slidesToShow": 2, "slidesMargin":10}}, {"breakpoint":500, "settings":{ "slidesToShow": 1}}]}'>
                         <li>
@@ -1964,229 +1964,6 @@
                     </div>
                 </div>
             </div>
-
-            <!--Block 09: Blog Post-->
-            <div class="blog-posts xs-margin-top-80px sm-margin-top-61px sm-padding-top-54px xs-padding-bottom-50px">
-                <div class="container">
-                    <div class="biolife-title-box link-all">
-                        <h3 class="main-title">Our Latest Articles</h3>
-                        <a href="#" class="blog-link">View All Articles</a>
-                    </div>
-                    <ul class="biolife-carousel nav-center xs-margin-top-33px nav-none-on-mobile" data-slick='{"rows":1,"arrows":true,"dots":false,"infinite":false,"speed":400,"slidesMargin":30,"slidesToShow":3, "responsive":[{"breakpoint":1200, "settings":{ "slidesToShow": 3}},{"breakpoint":992, "settings":{ "slidesToShow": 2}},{"breakpoint":768, "settings":{ "slidesToShow": 2}},{"breakpoint":600, "settings":{ "slidesToShow": 1}}]}'>
-                        <li>
-                            <div class="post-item style-bottom-info layout-02 ">
-                                <div class="thumbnail">
-                                    <a href="#" class="link-to-post"><img src="{{asset('client/assets/images/our-blog/post-thumb-01.jpg')}}" width="370" height="270" alt=""></a>
-                                    <div class="post-date">
-                                        <span class="date">26</span>
-                                        <span class="month">dec</span>
-                                    </div>
-                                </div>
-                                <div class="post-content">
-                                    <h4 class="post-name"><a href="#" class="linktopost">Ashwagandha: The #1 Herb in the World for Anxiety?</a></h4>
-                                    <div class="post-meta">
-                                        <a href="#" class="post-meta__item author"><img src="{{asset('client/assets/images/home-03/post-author.png')}}" width="28" height="28" alt=""><span>Admin</span></a>
-                                        <a href="#" class="post-meta__item btn liked-count">2<span class="biolife-icon icon-comment"></span></a>
-                                        <a href="#" class="post-meta__item btn comment-count">6<span class="biolife-icon icon-like"></span></a>
-                                        <div class="post-meta__item post-meta__item-social-box">
-                                            <span class="tbn"><i class="fa fa-share-alt" aria-hidden="true"></i></span>
-                                            <div class="inner-content">
-                                                <ul class="socials">
-                                                    <li><a href="#" title="twitter" class="socail-btn"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="facebook" class="socail-btn"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="pinterest" class="socail-btn"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="youtube" class="socail-btn"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="instagram" class="socail-btn"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <p class="excerpt">Did you know that red-staining foods are excellent lymph-movers? In fact, many plants that were historically used as dyes...</p>
-                                    <div class="group-buttons">
-                                        <a href="#" class="btn readmore">continue reading</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="post-item style-bottom-info layout-02">
-                                <div class="thumbnail">
-                                    <a href="#" class="link-to-post"><img src="{{asset('client/assets/images/our-blog/post-thumb-02.jpg')}}" width="370" height="270" alt=""></a>
-                                    <div class="post-date">
-                                        <span class="date">26</span>
-                                        <span class="month">dec</span>
-                                    </div>
-                                </div>
-                                <div class="post-content">
-                                    <h4 class="post-name"><a href="#" class="linktopost">Ashwagandha: The #1 Herb in the World for Anxiety?</a></h4>
-                                    <div class="post-meta">
-                                        <a href="#" class="post-meta__item author"><img src="{{asset('client/assets/images/home-03/post-author.png')}}" width="28" height="28" alt=""><span>Admin</span></a>
-                                        <a href="#" class="post-meta__item btn liked-count">2<span class="biolife-icon icon-comment"></span></a>
-                                        <a href="#" class="post-meta__item btn comment-count">6<span class="biolife-icon icon-like"></span></a>
-                                        <div class="post-meta__item post-meta__item-social-box">
-                                            <span class="tbn"><i class="fa fa-share-alt" aria-hidden="true"></i></span>
-                                            <div class="inner-content">
-                                                <ul class="socials">
-                                                    <li><a href="#" title="twitter" class="socail-btn"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="facebook" class="socail-btn"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="pinterest" class="socail-btn"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="youtube" class="socail-btn"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="instagram" class="socail-btn"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <p class="excerpt">Did you know that red-staining foods are excellent lymph-movers? In fact, many plants that were historically used as dyes...</p>
-                                    <div class="group-buttons">
-                                        <a href="#" class="btn readmore">continue reading</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="post-item style-bottom-info layout-02">
-                                <div class="thumbnail">
-                                    <a href="#" class="link-to-post"><img src="{{asset('client/assets/images/our-blog/post-thumb-04.jpg')}}" width="370" height="270" alt=""></a>
-                                    <div class="post-date">
-                                        <span class="date">26</span>
-                                        <span class="month">dec</span>
-                                    </div>
-                                </div>
-                                <div class="post-content">
-                                    <h4 class="post-name"><a href="#" class="linktopost">Ashwagandha: The #1 Herb in the World for Anxiety?</a></h4>
-                                    <div class="post-meta">
-                                        <a href="#" class="post-meta__item author"><img src="{{asset('client/assets/images/home-03/post-author.png')}}" width="28" height="28" alt=""><span>Admin</span></a>
-                                        <a href="#" class="post-meta__item btn liked-count">2<span class="biolife-icon icon-comment"></span></a>
-                                        <a href="#" class="post-meta__item btn comment-count">6<span class="biolife-icon icon-like"></span></a>
-                                        <div class="post-meta__item post-meta__item-social-box">
-                                            <span class="tbn"><i class="fa fa-share-alt" aria-hidden="true"></i></span>
-                                            <div class="inner-content">
-                                                <ul class="socials">
-                                                    <li><a href="#" title="twitter" class="socail-btn"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="facebook" class="socail-btn"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="pinterest" class="socail-btn"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="youtube" class="socail-btn"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="instagram" class="socail-btn"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <p class="excerpt">Did you know that red-staining foods are excellent lymph-movers? In fact, many plants that were historically used as dyes...</p>
-                                    <div class="group-buttons">
-                                        <a href="#" class="btn readmore">continue reading</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="post-item style-bottom-info layout-02">
-                                <div class="thumbnail">
-                                    <a href="#" class="link-to-post"><img src="{{asset('client/assets/images/our-blog/post-thumb-03.jpg')}}" width="370" height="270" alt=""></a>
-                                    <div class="post-date">
-                                        <span class="date">26</span>
-                                        <span class="month">dec</span>
-                                    </div>
-                                </div>
-                                <div class="post-content">
-                                    <h4 class="post-name"><a href="#" class="linktopost">Ashwagandha: The #1 Herb in the World for Anxiety?</a></h4>
-                                    <div class="post-meta">
-                                        <a href="#" class="post-meta__item author"><img src="{{asset('client/assets/images/home-03/post-author.png')}}" width="28" height="28" alt=""><span>Admin</span></a>
-                                        <a href="#" class="post-meta__item btn liked-count">2<span class="biolife-icon icon-comment"></span></a>
-                                        <a href="#" class="post-meta__item btn comment-count">6<span class="biolife-icon icon-like"></span></a>
-                                        <div class="post-meta__item post-meta__item-social-box">
-                                            <span class="tbn"><i class="fa fa-share-alt" aria-hidden="true"></i></span>
-                                            <div class="inner-content">
-                                                <ul class="socials">
-                                                    <li><a href="#" title="twitter" class="socail-btn"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="facebook" class="socail-btn"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="pinterest" class="socail-btn"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="youtube" class="socail-btn"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="instagram" class="socail-btn"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <p class="excerpt">Did you know that red-staining foods are excellent lymph-movers? In fact, many plants that were historically used as dyes...</p>
-                                    <div class="group-buttons">
-                                        <a href="#" class="btn readmore">continue reading</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="post-item style-bottom-info layout-02">
-                                <div class="thumbnail">
-                                    <a href="#" class="link-to-post"><img src="{{asset('client/assets/images/our-blog/post-thumb-05.jpg')}}" width="370" height="270" alt=""></a>
-                                    <div class="post-date">
-                                        <span class="date">26</span>
-                                        <span class="month">dec</span>
-                                    </div>
-                                </div>
-                                <div class="post-content">
-                                    <h4 class="post-name"><a href="#" class="linktopost">Ashwagandha: The #1 Herb in the World for Anxiety?</a></h4>
-                                    <div class="post-meta">
-                                        <a href="#" class="post-meta__item author"><img src="{{asset('client/assets/images/home-03/post-author.png')}}" width="28" height="28" alt=""><span>Admin</span></a>
-                                        <a href="#" class="post-meta__item btn liked-count">2<span class="biolife-icon icon-comment"></span></a>
-                                        <a href="#" class="post-meta__item btn comment-count">6<span class="biolife-icon icon-like"></span></a>
-                                        <div class="post-meta__item post-meta__item-social-box">
-                                            <span class="tbn"><i class="fa fa-share-alt" aria-hidden="true"></i></span>
-                                            <div class="inner-content">
-                                                <ul class="socials">
-                                                    <li><a href="#" title="twitter" class="socail-btn"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="facebook" class="socail-btn"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="pinterest" class="socail-btn"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="youtube" class="socail-btn"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="instagram" class="socail-btn"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <p class="excerpt">Did you know that red-staining foods are excellent lymph-movers? In fact, many plants that were historically used as dyes...</p>
-                                    <div class="group-buttons">
-                                        <a href="#" class="btn readmore">continue reading</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="post-item style-bottom-info layout-02">
-                                <div class="thumbnail">
-                                    <a href="#" class="link-to-post"><img src="{{asset('client/assets/images/our-blog/post-thumb-06.jpg')}}" width="370" height="270" alt=""></a>
-                                    <div class="post-date">
-                                        <span class="date">26</span>
-                                        <span class="month">dec</span>
-                                    </div>
-                                </div>
-                                <div class="post-content">
-                                    <h4 class="post-name"><a href="#" class="linktopost">Ashwagandha: The #1 Herb in the World for Anxiety?</a></h4>
-                                    <div class="post-meta">
-                                        <a href="#" class="post-meta__item author"><img src="{{asset('client/assets/images/home-03/post-author.png')}}" width="28" height="28" alt=""><span>Admin</span></a>
-                                        <a href="#" class="post-meta__item btn liked-count">2<span class="biolife-icon icon-comment"></span></a>
-                                        <a href="#" class="post-meta__item btn comment-count">6<span class="biolife-icon icon-like"></span></a>
-                                        <div class="post-meta__item post-meta__item-social-box">
-                                            <span class="tbn"><i class="fa fa-share-alt" aria-hidden="true"></i></span>
-                                            <div class="inner-content">
-                                                <ul class="socials">
-                                                    <li><a href="#" title="twitter" class="socail-btn"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="facebook" class="socail-btn"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="pinterest" class="socail-btn"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="youtube" class="socail-btn"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                                                    <li><a href="#" title="instagram" class="socail-btn"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <p class="excerpt">Did you know that red-staining foods are excellent lymph-movers? In fact, many plants that were historically used as dyes...</p>
-                                    <div class="group-buttons">
-                                        <a href="#" class="btn readmore">continue reading</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
         </div>
 
     </div>
