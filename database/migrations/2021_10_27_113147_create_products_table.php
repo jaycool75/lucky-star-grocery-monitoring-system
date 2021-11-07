@@ -18,7 +18,6 @@ class CreateProductsTable extends Migration
             $table->string('product_name');
             $table->string('variation');
             $table->text('description');
-            $table->integer('weight');
             $table->integer('availability');
             $table->integer('price');
             $table->integer('discounted_price');
