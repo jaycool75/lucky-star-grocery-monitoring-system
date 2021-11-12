@@ -900,7 +900,6 @@ body{
 }
 .header-top .right .horizontal-menu>li{
     vertical-align: middle;
-    min-width: 140px;
     padding: 0 20px;
     border-right: 1px solid rgba(255,255,255,0.33);
 }
@@ -5749,7 +5748,6 @@ body.open-overlay #overlay{
     line-height: 0;
 }
 .signin-container{
-    margin-top: 77px;
 }
 .signin-container .form-row{
     margin-bottom: 13px;
@@ -5806,7 +5804,6 @@ body.open-overlay #overlay{
     background-color: #444444;
 }
 .register-in-container{
-    margin-top: 73px;
     margin-bottom: 80px;
 }
 .register-in-container .intro{
