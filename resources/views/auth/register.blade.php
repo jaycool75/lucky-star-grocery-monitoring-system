@@ -41,7 +41,7 @@
                             </p>
                             <p class="form-row">
                                 <label for="middle-name">Middle Name:<span class="requite"></span></label>
-                                <input id="middle-name" type="text" @error('middle-name') is-invalid @enderror" name="middle-name" value="{{ old('middle-name') }}" required autocomplete="middle-name" autofocus class="txt-input">
+                                <input id="middle-name" type="text" @error('middle-name') is-invalid @enderror" name="middle-name" value="{{ old('middle-name') }}" autocomplete="middle-name" autofocus class="txt-input">
                                 @error('middle-name')
                                     <span class="invalid-feedback" role="alert">
                                         <strong>{{ $message }}</strong>
@@ -63,15 +63,6 @@
 
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                         <div class="signin-container">
-                            <p class="form-row">
-                                <label for="birthday">Birthday:<span class="requite">*</span></label>
-                                <input id="birthday" type="date" @error('birthday') is-invalid @enderror" name="birthday" value="{{ old('birthday') }}" required autocomplete="birthday" autofocus class="txt-input">
-                                @error('birthday')
-                                    <span class="invalid-feedback" role="alert">
-                                        <strong>{{ $message }}</strong>
-                                    </span>
-                                @enderror
-                            </p>
                                 <p class="form-row">
                                     <label for="mobile">Mobile No:<span class="requite">*</span></label>
                                     <input id="mobile" type="text" @error('mobile') is-invalid @enderror" name="mobile" value="{{ old('mobile') }}" required autocomplete="mobile" autofocus class="txt-input">
@@ -86,6 +77,15 @@
                                     <label for="fid-pass">Password:<span class="requite">*</span></label>
                                     <input id="password" type="password" @error('password') is-invalid @enderror" name="password" required autocomplete="current-password" class="txt-input">
                                     @error('password')
+                                        <span class="invalid-feedback" role="alert">
+                                            <strong>{{ $message }}</strong>
+                                        </span>
+                                    @enderror
+                                </p>
+                                <p class="form-row">
+                                    <label for="fid-pass">Confirm Password:<span class="requite">*</span></label>
+                                    <input id="password-confirm" type="password" @error('password-confirm') is-invalid @enderror" name="password_confirmation" required autocomplete="current-password-confirm" class="txt-input">
+                                    @error('password-confirm')
                                         <span class="invalid-feedback" role="alert">
                                             <strong>{{ $message }}</strong>
                                         </span>

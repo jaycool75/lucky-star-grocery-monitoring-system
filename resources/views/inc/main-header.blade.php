@@ -26,7 +26,8 @@
                 </ul>
                 <ul class="horizontal-menu">
                     @if (Auth::check())
-                    <li><a href="{{ route('logout') }}" class="login-link" onclick="event.preventDefault(); document.getElementById('logout-form').submit();"><i class="biolife-icon icon-login"></i>Logout</a></li>
+                    <li><a href="#" class="login-link"><i class="biolife-icon icon-login"></i> {{ Auth::user()->name }}</a></li>
+                    <li><a href="{{ route('logout') }}" class="login-link" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">Logout</a></li>
                     <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
                         @csrf
                     </form>
