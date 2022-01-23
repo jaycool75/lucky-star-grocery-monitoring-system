@@ -20,4 +20,4 @@ Route::get('/home', [HomeController::class, 'index'])->name('home');
 
 Route::middleware(['auth'])->group(function () {
     Route::get('/dashboard', 'App\Http\Controllers\DashboardController@index')->name('dashboard');
-});
+}); web-based ordering system for lucky star grocery
