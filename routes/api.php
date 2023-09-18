@@ -3,7 +3,7 @@
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
-/*
+/web-based monitoring and management system for lucky star grocery
 |--------------------------------------------------------------------------
 | API Routes
 |--------------------------------------------------------------------------
